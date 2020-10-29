@@ -1,0 +1,22 @@
+LoginPage:
+  username: /html/body/form/table/tbody/tr/td/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[1]/td[2]/div/input
+  password: /html/body/form/table/tbody/tr/td/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[2]/td[2]/div/input
+  submit: //*[@id="in1"]
+CustomerPage:
+  leftFrame: /html/frameset/frameset/frame[1]
+  CustomerInfo: //*[@id="submenu1"]/div/table/tbody/tr[1]/td/table/tbody/tr[1]/td[2]/table/tbody/tr/td/span/a
+  customer_care: //*[@id="submenu1"]/div/table/tbody/tr[1]/td/table/tbody/tr[2]/td[2]/table/tbody/tr/td/span/a
+  mainFrame: mainFrame
+  add_button: /html/body/form/table/tbody/tr[1]/td/table/tbody/tr/td[2]/table/tbody/tr/td[4]/input
+  name: /html/body/form/table[1]/tbody/tr[2]/td[2]/input
+  e-mail: /html/body/form/table[1]/tbody/tr[4]/td[4]/input
+  birthday: //*[@id="customerBirthday"]
+  addman: /html/body/form/table[1]/tbody/tr[8]/td[2]/input
+  add_submit: /html/body/form/table[2]/tbody/tr/td[2]/input
+  input_name : /html/body/form/table/tbody/tr[1]/td/table/tbody/tr/td[2]/table/tbody/tr/td[1]/input
+  search_button : /html/body/form/table/tbody/tr[1]/td/table/tbody/tr/td[2]/table/tbody/tr/td[3]/input
+  modify_button : /html/body/form/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[2]/td[13]/div/span/a[1]
+  addr: /html/body/form/table[1]/tbody/tr[6]/td[4]/input
+  modify_submit: /html/body/form/table[2]/tbody/tr/td[2]/input
+  result : /html/body/form/table/tbody/tr[3]/td/table/tbody/tr/td[2]/table/tbody/tr/td[1]
+  form_res : /html/body/form/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[{}]/td[2]/div/span

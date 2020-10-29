@@ -2,7 +2,7 @@ import sys
 import time
 import unittest
 from HTMLTestRunner import HTMLTestRunner
-sys.path.append('D:\\.jenkins\\workspace\\crm_sys')
+sys.path.append('D:\\.jenkins\\workspace')
 from crm_sys.base.usebrowser import UseBrowser
 from crm_sys.util.excel_operation import OperationExcel
 from crm_sys.webpage.customeroperation.customer import CustomerPage

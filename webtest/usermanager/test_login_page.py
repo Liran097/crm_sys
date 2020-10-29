@@ -1,6 +1,6 @@
 import sys
 
-sys.path.append('D:\\PythonFile')
+sys.path.append('D:\\.jenkins\\workspace\\crm_sys')
 from crm_sys.base.usebrowser import UseBrowser
 from crm_sys.util.excel_operation import OperationExcel
 
